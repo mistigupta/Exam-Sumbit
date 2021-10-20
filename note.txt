@@ -1,0 +1,9 @@
+<img src="img-5.jpg" alt="Hidden Image" usemap="#ProGrad" width="193" height="261">
+    <map name="ProGrad">
+        <area shape="rect" coords="0,0,193,261" href="file:///C:/Users/Sony/Desktop/ProGrad/Mini%20Project/hidden_images.html" alt="Hidden Images">
+    </map>
+
+    <img src="img 5.jpg" alt="Doodle Art" usemap="#ProGrad" width="182" height="150">
+    <map name="ProGrad">
+        <area shape="rect" coords="0,0,182,150" href="file:///C:/Users/Sony/Desktop/ProGrad/Mini%20Project/doodle%20art.html" alt="Doodle Art">
+    </map>

@@ -1,0 +1,1 @@
+<a href="abc.html"><img src="image.jpg"><p>Click here!</p></a>
